@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run LifeLedger (mvn javafx:run)",
+            "type": "shell",
+            "command": "mvn",
+            "args": ["javafx:run"],
+            "group": { "kind": "build", "isDefault": true },
+            "problemMatcher": []
+        }
+    ]
+}
