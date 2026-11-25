@@ -1,0 +1,22 @@
+# Maven Build Output
+target/
+*.class
+
+# User Vault Files & Backups (Private documents)
+vault_files/
+backup_user_*.sql
+*.db
+*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# OS Generated Files
+Thumbs.db
+Desktop.ini
+.DS_Store
